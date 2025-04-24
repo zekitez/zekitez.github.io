@@ -1,0 +1,61 @@
+body         { MARGIN-LEFT: 5%; MARGIN-RIGHT: 5%; }
+body.n       { MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%; }
+table.c      { MARGIN-LEFT:-5%; MARGIN-RIGHT: -5%; text-align: center }      
+dd           { list-style-image: url('make_up/rbgdot.gif') }
+ul           { list-style-image: url('make_up/rbgdot.gif') }
+ul ul        { list-style-image: url('make_up/rbgdot.gif') }
+ul ul ul     { list-style-image: url('make_up/rbgdot.gif') }
+p.img        { text-align: center }
+a:link       { color: #0000FF }
+a:visited    { color: #000F0F }
+a:active     { color: #0FA00F }
+a:hover      { font-weight:bold}
+body         { color: #000000; background-color: #FFFFFF }
+code         { color: #000000; background-color: #FFFFFF; font-family: 'Courier', Courier, New Courier; font-weight: normal; 
+               font-style: normal; font-size: 12pt }
+h1           { color: rgb(0,0,255) }
+h2, marquee  { color: rgb(0,0,255) }
+h3           { color: rgb(0,0,255) }
+h4           { color: rgb(0,0,255) }
+h5           { color: rgb(0,0,255) }
+h6           { color: rgb(0,0,255) }
+hr           { color: rgb(0,0,255) ; align: middle}
+button       { background-color: rgb(0,0,255); color: white; border-color: rgb(255,204,51) }
+textarea     { color: Black; border-color: blue }
+table        { color: rgb(0,0,0); border-color: rgb(255,204,51) }
+th           { color: rgb(0,0,0); border-color: rgb(255,204,51) }
+td           { color: rgb(0,0,0); border-color: rgb(255,204,51) }
+
+body         { font-family: 'Trebuchet MS', Arial, Helvetica; background-image: url('make_up/blue.gif') }
+body.n       { font-size: 8pt; font-family: 'Trebuchet MS', Arial, Helvetica; background-image: url('make_up/blue.gif') }
+h1           { font-family: 'Trebuchet MS', Arial, Helvetica; font-weight: normal; 
+               font-style: normal; font-size: 24pt }
+h2           { font-family: 'Trebuchet MS', Arial, Helvetica; font-weight: normal; 
+               font-style: normal; font-size: 18pt }
+h3           { font-family: 'Trebuchet MS', Arial, Helvetica; font-weight: normal; 
+               font-style: normal; font-size: 14pt }
+h4           { font-family: 'Trebuchet MS', Arial, Helvetica; font-weight: normal; 
+               font-style: normal; font-size: 12pt }
+h5           { font-family: 'Trebuchet MS', Arial, Helvetica; font-weight: normal; 
+               font-style: normal; font-size: 10pt }
+h6           { font-family: 'Trebuchet MS', Arial, Helvetica; font-weight: normal; 
+               font-style: normal; font-size: 8pt }
+button       { font-size: 8pt; font-family: 'Trebuchet MS', Arial, Helvetica; font-style: 
+               normal; border-style: solid; border-width: 1pt }
+textarea     { font-size: 8pt; font-family: 'Courier', Arial, Courier; font-style: 
+               Normal; border-style: solid; border-width: 1pt }
+fieldset     { font-size: 8pt; font-family: 'Trebuchet MS', Arial, Helvetica; font-style: 
+               Normal; border-style: solid; border-width: 1pt }
+legend       { font-size: 8pt; font-family: 'Trebuchet MS', Arial, Helvetica; font-style: 
+               Normal }
+table        { font-family: 'Trebuchet MS', Arial, Helvetica; font-style: Normal }
+th           { font-family: 'Trebuchet MS', Arial, Helvetica; font-style: Normal }
+tr           { font-family: 'Trebuchet MS', Arial, Helvetica; font-style: Normal }
+td           { font-family: 'Trebuchet MS', Arial, Helvetica; font-style: Normal }
+caption      { font-size: 14pt; font-family: 'Trebuchet MS', Arial, Helvetica; font-style: 
+               Normal }
+dmarquee      { font-family: 'Trebuchet MS', Arial, Helvetic; font-size: 14pt }
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
